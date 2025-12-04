@@ -1,0 +1,13 @@
+============================================================
+LITERATURE VALIDATION REPORT
+============================================================
+
+2. ISI ENTROPY
+   Model: 0.00 bits
+   Lit:   1.0-3.5 bits (Borst & Theunissen (1999))
+   Valid: NO
+
+3. METABOLIC CALIBRATION
+   Model Cost: 264457.92 a.u.
+   Calibrated: 7.20e+09 Na+ ions/spike
+   Reference:  3.50e+07 Na+ ions/spike (Alle et al. 2009)
